@@ -1,0 +1,38 @@
+body {
+    background-color: #f5f3f2;
+    background-image: url('c:\Users\vedat\OneDrive\Työpöytä\backround photo boxing.jpg');
+    font-family: Arial, sans-serif;
+}
+
+.top-left-link {
+    position: absolute;
+    top: 10px;
+    left: 5px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    border-bottom: 2px solid hw; 
+    padding-bottom: 5px;
+}
+
+p {
+    background-color: #20f504; 
+    border-radius: 8px;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+img, figure, progress {
+    margin: 10px 0;
+}
+
+figure {
+    text-align: center;
+}
+
+figcaption {
+    margin-top: 5px;
+    font-style: italic;
+    color: #20f504;
+}
+

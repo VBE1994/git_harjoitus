@@ -1,13 +1,32 @@
 body {
-    background-color: gray;
+    background-color: black;
 }
 
 h1 {
     color:white;
-    text-align: center;
+    
 }
 
  p {
+   color: white;
     font-family: verdana;
     font-size: 20px;
  }
+ ol{
+    color:white;
+    list-style-type:upper-alpha;
+ }
+ ul {
+    color: white;
+    list-style-type: square;
+ }
+ div{
+    color: white;
+    border: dotted;
+    width: 100px;
+    height: 100px;
+ }
+ 
+ 
+
+ 
